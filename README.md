@@ -1,4 +1,4 @@
-# Update Gradle Wrapper Action
+ Update Gradle Wrapper Action
 
 ![CI](https://github.com/gradle-update/update-gradle-wrapper-action/workflows/CI/badge.svg)
 
